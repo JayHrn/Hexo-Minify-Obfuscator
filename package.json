@@ -1,6 +1,6 @@
 {
   "name": "hexo-minify-obfuscator",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Compress the HTML, CSS, and JS in Hexo resources, and obfuscate JS",
   "main": "index.js",
   "scripts": {},
