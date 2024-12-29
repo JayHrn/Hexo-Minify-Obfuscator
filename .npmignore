@@ -1,0 +1,7 @@
+.git/
+node_modules/
+.DS_Store
+npm-*.log
+.idea/
+.nyc_output/
+coverage/

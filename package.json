@@ -1,0 +1,45 @@
+{
+  "name": "hexo-minify-obfuscator",
+  "version": "1.1.0",
+  "description": "Compress the HTML, CSS, and JS in Hexo resources, and obfuscate JS",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JayHrn/Hexo-Minify-Obfuscator.git"
+  },
+  "files": [
+    "lib",
+    "index.js",
+    "test.js"
+  ],
+  "keywords": [
+    "hexo",
+    "minify",
+    "compress",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "JS",
+    "obfuscator"
+  ],
+  "author": "JayHrn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JayHrn/Hexo-Minify-Obfuscator/issues"
+  },
+  "homepage": "https://github.com/JayHrn/Hexo-Minify-Obfuscator#readme",
+  "dependencies": {
+    "merge-deep": "^3.0.3",
+    "terser": "^5.37.0",
+    "javascript-obfuscator": "^4.1.1",
+    "clean-css": "^5.3.3",
+    "htmlnano": "^2.1.1",
+    "posthtml": "^0.16.6",
+    "cssnano": "^7.0.6",
+    "svgo": "^3.3.2"
+  },
+  "devDependencies": {
+    "hexo": "^7.3.0"
+  }
+}
